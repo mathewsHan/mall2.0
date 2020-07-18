@@ -136,7 +136,9 @@ mall
 | PowerDesigner | 数据库设计工具      | http://powerdesigner.de/                        |
 | Axure         | 原型设计工具        | https://www.axure.com/                          |
 | MindMaster    | 思维导图设计工具    | http://www.edrawsoft.cn/mindmaster              |
+| ZOHO NoteBook/WPS   项目文档管理平台?
 | ScreenToGif   | gif录制工具         | https://www.screentogif.com/                    |
+| DrawIO   流程图管理工具 |
 | ProcessOn     | 流程图绘制工具      | https://www.processon.com/                      |
 | PicPick       | 图片处理工具        | https://picpick.app/zh/                         |
 | Snipaste      | 屏幕截图工具        | https://www.snipaste.com/                       |
