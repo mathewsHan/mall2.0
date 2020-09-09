@@ -122,7 +122,6 @@
         }
       },
       handleLogin() {
-        // this.$router.push({path: '/'})
         this.$refs.loginForm.validate(valid => {
           if (valid) {
             // let isSupport = getSupport();
